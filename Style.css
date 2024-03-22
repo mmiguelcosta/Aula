@@ -4,3 +4,20 @@ body {
 h1 {
     color: white;
 }
+header{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid gray;
+    align-items: center;
+    justify-content: space-between ;
+}
+header span a{
+    margin: 0 1rem;
+}
+header span button{
+    margin: 0 1rem;
+}
+header span{
+    display: flex;
+    flex-direction: row;
+}
