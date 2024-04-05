@@ -32,3 +32,12 @@ header span{
     display: flex;
     flex-direction: row;
 }
+
+main{ justify-content: space-around}
+
+.maincolumn{display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    width: 50%;
+    background-color: gray;}
